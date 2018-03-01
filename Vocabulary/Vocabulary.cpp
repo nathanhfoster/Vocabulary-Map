@@ -29,7 +29,7 @@ Vocabulary::Vocabulary() {
 		for (auto w = vocabWord.begin(); w != vocabWord.end(); ++w) {
 			cout.width(20);
 			cout << left << w->first << "\t";
-			cout << right << "|Ocuurences: " << w->second << endl;
+			cout << right << "| Ocuurences: " << w->second << endl;
 		}
 	}
 }
@@ -46,7 +46,7 @@ Vocabulary::~Vocabulary()  {
 		for (auto w = vocabWord.begin(); w != vocabWord.end(); ++w) {
 			outFile.width(20);
 			outFile << left << w->first << "\t";
-			outFile << right << "|Ocuurences: " << w->second << endl;
+			outFile << right << "| Ocuurences: " << w->second << endl;
 		}
 	}
 }

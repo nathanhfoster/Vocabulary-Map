@@ -1,15 +1,17 @@
-	Ambrosia
-	Percess
-	Bastion
-	Opiate
-	Drab
-	Convoluted
-	Serendipitous
-	Cartel
-	Bandwidth
-	Faccet
-	Visceral
-
+Percuss
+Prism
+Time Dilation
+Ambrosia
+Percess
+Bastion
+Opiate
+Drab
+Convoluted
+Serendipitous
+Cartel
+Bandwidth
+Faccet
+Visceral
 Lucid
 Apogee
 Culmination
@@ -223,7 +225,7 @@ Fragment
 Pinnacle
 Crusade
 Incandescent 
-esoteric
+Esoteric
 Dedicate
 Sovereign
 Phosphorescence
@@ -256,7 +258,8 @@ Polarize
 Weld
 Isolate
 Hover
-Shadow Foreshadow
+Shadow
+Foreshadow
 Elemental
 Current
 Undercurrent
@@ -510,7 +513,8 @@ Restrict
 Clairvoyance
 Adamant
 Competent
-InnuendoPreference
+Innuendo
+Preference
 Compound
 Antidote
 Mercenary

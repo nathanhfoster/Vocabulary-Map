@@ -1,607 +1,616 @@
-Abbreviate          	|Ocuurences: 0
-Abolish             	|Ocuurences: 0
-Abrasive            	|Ocuurences: 0
-Abrupt              	|Ocuurences: 0
-Absolve             	|Ocuurences: 0
-Absorb              	|Ocuurences: 0
-Abstract            	|Ocuurences: 0
-Abstraction         	|Ocuurences: 0
-Abyssal Soul        	|Ocuurences: 0
-Acclimate           	|Ocuurences: 0
-Accolade            	|Ocuurences: 0
-Activate            	|Ocuurences: 0
-Acute               	|Ocuurences: 0
-Ad hoc              	|Ocuurences: 0
-Adamant             	|Ocuurences: 0
-Adept               	|Ocuurences: 0
-Adequate            	|Ocuurences: 0
-Advance             	|Ocuurences: 0
-Aesthetic           	|Ocuurences: 0
-Aether              	|Ocuurences: 0
-Affidavit           	|Ocuurences: 0
-Affluence           	|Ocuurences: 0
-Aggrandize          	|Ocuurences: 0
-Agitate             	|Ocuurences: 0
-Alleged             	|Ocuurences: 0
-Alloy               	|Ocuurences: 0
-Alphabet            	|Ocuurences: 0
-Altercations        	|Ocuurences: 0
-Amend               	|Ocuurences: 0
-Anachronisms        	|Ocuurences: 0
-Animosity           	|Ocuurences: 0
-Annihilate          	|Ocuurences: 0
-Announce            	|Ocuurences: 0
-Annul               	|Ocuurences: 0
-Annunciate          	|Ocuurences: 0
-Anomaly             	|Ocuurences: 0
-Antidote            	|Ocuurences: 0
-Aphrodisiac         	|Ocuurences: 0
-Apogee              	|Ocuurences: 0
-Apparatus           	|Ocuurences: 0
-Appellation         	|Ocuurences: 0
-Apprentice          	|Ocuurences: 0
-Aptitude            	|Ocuurences: 1
-Arbitrary           	|Ocuurences: 0
-Arcane              	|Ocuurences: 0
-Archaic             	|Ocuurences: 0
-Aristocracy         	|Ocuurences: 0
-Aristocrat          	|Ocuurences: 0
-Aroma               	|Ocuurences: 0
-Arrest              	|Ocuurences: 0
-Article             	|Ocuurences: 0
-Articulate          	|Ocuurences: 0
-Artifact            	|Ocuurences: 1
-Ascertain           	|Ocuurences: 0
-Ascetic             	|Ocuurences: 0
-Aspect              	|Ocuurences: 0
-Assassinate         	|Ocuurences: 0
-Astral              	|Ocuurences: 0
-Astute              	|Ocuurences: 1
-Austere             	|Ocuurences: 0
-Avarice             	|Ocuurences: 0
-Averous             	|Ocuurences: 0
-Bandwidth           	|Ocuurences: 0
-Banish              	|Ocuurences: 1
-Baptize             	|Ocuurences: 0
-Barrier             	|Ocuurences: 0
-Basilisk            	|Ocuurences: 0
-Bask                	|Ocuurences: 0
-Batch               	|Ocuurences: 0
-Battery             	|Ocuurences: 0
-Beckon              	|Ocuurences: 0
-Benevolent          	|Ocuurences: 0
-Bequeath            	|Ocuurences: 0
-Betray              	|Ocuurences: 0
-Bind                	|Ocuurences: 0
-Blight              	|Ocuurences: 1
-Bodacious           	|Ocuurences: 0
-Bonafide            	|Ocuurences: 0
-Bondage             	|Ocuurences: 0
-Bounty              	|Ocuurences: 0
-Brilliant           	|Ocuurences: 0
-Brooding            	|Ocuurences: 0
-Cache               	|Ocuurences: 0
-Caliber             	|Ocuurences: 0
-Canon               	|Ocuurences: 0
-Capacity            	|Ocuurences: 0
-Capture             	|Ocuurences: 0
-Caravan             	|Ocuurences: 0
-Carnage             	|Ocuurences: 0
-Cartel              	|Ocuurences: 0
-Cascade             	|Ocuurences: 0
-Catalyst            	|Ocuurences: 1
-Cavalier            	|Ocuurences: 0
-Celtic              	|Ocuurences: 0
-Censor              	|Ocuurences: 0
-Chalice             	|Ocuurences: 0
-Chamber             	|Ocuurences: 0
-Champion            	|Ocuurences: 0
-Charisma            	|Ocuurences: 0
-Claim               	|Ocuurences: 0
-Clairvoyance        	|Ocuurences: 0
-Clarity             	|Ocuurences: 0
-Classical           	|Ocuurences: 0
-Clout               	|Ocuurences: 0
-Coerce              	|Ocuurences: 1
-Coercion            	|Ocuurences: 0
-Cognizant           	|Ocuurences: 0
-Cohesive            	|Ocuurences: 0
-Colossal            	|Ocuurences: 0
-Compel              	|Ocuurences: 1
-Compensate          	|Ocuurences: 1
-Compete             	|Ocuurences: 0
-Competent           	|Ocuurences: 0
-Complacent          	|Ocuurences: 0
-Compost             	|Ocuurences: 0
-Composure           	|Ocuurences: 0
-Compound            	|Ocuurences: 1
-Compress            	|Ocuurences: 0
-Concentrate         	|Ocuurences: 0
-Concert             	|Ocuurences: 0
-Concoct             	|Ocuurences: 0
-Concocted           	|Ocuurences: 0
-Concurrent          	|Ocuurences: 0
-Concussion          	|Ocuurences: 0
-Condemn             	|Ocuurences: 0
-Condition           	|Ocuurences: 0
-Condolence          	|Ocuurences: 0
-Conference          	|Ocuurences: 0
-Conform             	|Ocuurences: 0
-Confound            	|Ocuurences: 0
-Conjure             	|Ocuurences: 1
-Conquest            	|Ocuurences: 0
-Consensus           	|Ocuurences: 0
-Consequential       	|Ocuurences: 0
-Conserve            	|Ocuurences: 0
-Consolidate         	|Ocuurences: 0
-Consort             	|Ocuurences: 0
-Constitutes         	|Ocuurences: 0
-Construe            	|Ocuurences: 0
-Contradict          	|Ocuurences: 0
-Convection          	|Ocuurences: 0
-Converge            	|Ocuurences: 0
-Convince            	|Ocuurences: 0
-Convoluted          	|Ocuurences: 0
-Convulse            	|Ocuurences: 0
-Cordial             	|Ocuurences: 0
-Corridor            	|Ocuurences: 0
-Cosset              	|Ocuurences: 0
-Credence            	|Ocuurences: 0
-Crescendo           	|Ocuurences: 0
-Crusade             	|Ocuurences: 0
-Culmination         	|Ocuurences: 0
-Current             	|Ocuurences: 0
-Cynical             	|Ocuurences: 0
-DNA                 	|Ocuurences: 0
-Dapple              	|Ocuurences: 0
-Daze                	|Ocuurences: 0
-Dearth              	|Ocuurences: 0
-Debauchery          	|Ocuurences: 0
-Decay               	|Ocuurences: 0
-Decipher            	|Ocuurences: 0
-Decrepit            	|Ocuurences: 0
-Dedicate            	|Ocuurences: 0
-Default             	|Ocuurences: 0
-Deign               	|Ocuurences: 0
-Delude              	|Ocuurences: 0
-Dement              	|Ocuurences: 0
-Demise              	|Ocuurences: 0
-Demographic         	|Ocuurences: 0
-Demon               	|Ocuurences: 0
-Denounce            	|Ocuurences: 0
-Density             	|Ocuurences: 0
-Depth               	|Ocuurences: 0
-Destiny             	|Ocuurences: 0
-Detect              	|Ocuurences: 0
-Dethrone            	|Ocuurences: 0
-Detonate            	|Ocuurences: 0
-Detribalize         	|Ocuurences: 0
-Detriment           	|Ocuurences: 0
-Devise              	|Ocuurences: 0
-Dilute              	|Ocuurences: 0
-Diminish            	|Ocuurences: 0
-Diplomatic          	|Ocuurences: 0
-Disapproval         	|Ocuurences: 0
-Discern             	|Ocuurences: 0
-Disenchant          	|Ocuurences: 0
-Disillusion         	|Ocuurences: 0
-Dismal              	|Ocuurences: 0
-Dismay              	|Ocuurences: 0
-Disrupt             	|Ocuurences: 0
-Distinguished       	|Ocuurences: 0
-Domain              	|Ocuurences: 0
-Drain               	|Ocuurences: 0
-Dualism             	|Ocuurences: 0
-Echelon             	|Ocuurences: 0
-Echo chamber        	|Ocuurences: 0
-Economy             	|Ocuurences: 0
-Ecstasy             	|Ocuurences: 0
-Edifice             	|Ocuurences: 0
-Efficacy            	|Ocuurences: 0
-Effusive            	|Ocuurences: 0
-Eidetic             	|Ocuurences: 0
-Elemental           	|Ocuurences: 0
-Elicit              	|Ocuurences: 1
-Elixir              	|Ocuurences: 0
-Elixir              	|Ocuurences: 0
-Elude               	|Ocuurences: 0
-Elusive             	|Ocuurences: 0
-Emanation           	|Ocuurences: 0
-Empirical           	|Ocuurences: 0
-Enchant             	|Ocuurences: 0
-Endeavor            	|Ocuurences: 0
-Endorse             	|Ocuurences: 0
-Engage              	|Ocuurences: 0
-Enigmatic           	|Ocuurences: 0
-Enter               	|Ocuurences: 0
-Entropy             	|Ocuurences: 0
-Enumerate           	|Ocuurences: 0
-Envelop             	|Ocuurences: 0
-Epitome             	|Ocuurences: 0
-Epitomize           	|Ocuurences: 0
-Erudite             	|Ocuurences: 0
-Estate              	|Ocuurences: 0
-Exacerbate          	|Ocuurences: 0
-Exalted             	|Ocuurences: 0
-Exasperate          	|Ocuurences: 0
-Exhaust             	|Ocuurences: 0
-Expanse             	|Ocuurences: 0
-Explicit            	|Ocuurences: 0
-Exploit             	|Ocuurences: 0
-Export              	|Ocuurences: 0
-Expulsion           	|Ocuurences: 0
-Expunge             	|Ocuurences: 0
-Exterior            	|Ocuurences: 0
-Extinguish          	|Ocuurences: 0
-Extract             	|Ocuurences: 0
-Extractive          	|Ocuurences: 0
-Fable               	|Ocuurences: 0
-Fabricate           	|Ocuurences: 0
-Faccet              	|Ocuurences: 0
-Facet               	|Ocuurences: 0
-Facilitate          	|Ocuurences: 0
-Fatal               	|Ocuurences: 0
-Fathering gaze      	|Ocuurences: 0
-Feast               	|Ocuurences: 0
-Fertile             	|Ocuurences: 0
-Fickle              	|Ocuurences: 0
-Fingerprints        	|Ocuurences: 0
-Firewall            	|Ocuurences: 0
-Fold                	|Ocuurences: 0
-Forbearance         	|Ocuurences: 0
-Forfeit             	|Ocuurences: 0
-Fortitude           	|Ocuurences: 0
-Fortress            	|Ocuurences: 0
-Forum               	|Ocuurences: 0
-Fragment            	|Ocuurences: 0
-Fray                	|Ocuurences: 1
-Fret                	|Ocuurences: 0
-Fugitive            	|Ocuurences: 0
-Fuse                	|Ocuurences: 0
-Fusion              	|Ocuurences: 0
-Futile              	|Ocuurences: 0
-Galvanize           	|Ocuurences: 1
-Gargantuan          	|Ocuurences: 0
-Gargoyle            	|Ocuurences: 0
-Garnish             	|Ocuurences: 0
-Garrison            	|Ocuurences: 0
-Gawk                	|Ocuurences: 0
-Genocide            	|Ocuurences: 0
-Girth               	|Ocuurences: 0
-Glacier             	|Ocuurences: 0
-Gladiator           	|Ocuurences: 0
-Glance              	|Ocuurences: 0
-Gloom               	|Ocuurences: 0
-Gratuitous          	|Ocuurences: 0
-Gridlock            	|Ocuurences: 0
-Grit                	|Ocuurences: 0
-Grotesque           	|Ocuurences: 0
-Harness             	|Ocuurences: 0
-Harrow              	|Ocuurences: 0
-Haunt               	|Ocuurences: 1
-Hazard              	|Ocuurences: 0
-Hesitation          	|Ocuurences: 0
-Hiatus              	|Ocuurences: 0
-Homage              	|Ocuurences: 0
-Hopper              	|Ocuurences: 0
-Horrid              	|Ocuurences: 0
-Hover               	|Ocuurences: 0
-Hyperbole           	|Ocuurences: 0
-Hyphen              	|Ocuurences: 0
-Idiosyncrasy        	|Ocuurences: 1
-Illusion            	|Ocuurences: 0
-Imbed               	|Ocuurences: 0
-Immaculate          	|Ocuurences: 0
-Impetuous           	|Ocuurences: 0
-Implicit            	|Ocuurences: 0
-Incandescent        	|Ocuurences: 0
-Incapacitate        	|Ocuurences: 0
-Incarcerated        	|Ocuurences: 0
-Incarnate           	|Ocuurences: 0
-Inclination         	|Ocuurences: 0
-Incognito           	|Ocuurences: 0
-Incubator           	|Ocuurences: 0
-Indent Divide       	|Ocuurences: 0
-Indenture           	|Ocuurences: 0
-Indicative          	|Ocuurences: 0
-Indigenous          	|Ocuurences: 0
-Ineptitude          	|Ocuurences: 0
-Inevitable          	|Ocuurences: 0
-Inhibit             	|Ocuurences: 0
-Inhibition          	|Ocuurences: 0
-Innocuous           	|Ocuurences: 0
-InnuendoPreference 	|Ocuurences: 0
-Inquisitive         	|Ocuurences: 0
-Insatiable          	|Ocuurences: 0
-Insolation          	|Ocuurences: 0
-Insubstantial       	|Ocuurences: 0
-Intelligence        	|Ocuurences: 0
-Intercept           	|Ocuurences: 0
-Interfere           	|Ocuurences: 0
-Interior            	|Ocuurences: 0
-Interrupt           	|Ocuurences: 0
-Intrepid            	|Ocuurences: 0
-Intrinsic           	|Ocuurences: 1
-Invade              	|Ocuurences: 0
-Invoke              	|Ocuurences: 0
-Iridescent          	|Ocuurences: 1
-Ironic              	|Ocuurences: 0
-Isolate             	|Ocuurences: 0
-Jaded               	|Ocuurences: 0
-Jargon              	|Ocuurences: 0
-Jeopardy            	|Ocuurences: 0
-Juggernaut          	|Ocuurences: 0
-Keen                	|Ocuurences: 0
-Kosher              	|Ocuurences: 0
-Labyrinth           	|Ocuurences: 0
-Lance               	|Ocuurences: 0
-Landscape           	|Ocuurences: 0
-Legislative         	|Ocuurences: 0
-Lense               	|Ocuurences: 0
-Liaison             	|Ocuurences: 0
-Linger              	|Ocuurences: 0
-Lucid               	|Ocuurences: 0
-Lucidity            	|Ocuurences: 0
-Majestic            	|Ocuurences: 0
-Maleficent          	|Ocuurences: 0
-Mandate             	|Ocuurences: 0
-Manipulate          	|Ocuurences: 0
-Manuscript          	|Ocuurences: 0
-Market              	|Ocuurences: 0
-Marshal             	|Ocuurences: 0
-Marshall            	|Ocuurences: 0
-Matrix              	|Ocuurences: 0
-Medium              	|Ocuurences: 0
-Memory              	|Ocuurences: 0
-Mercenary           	|Ocuurences: 0
-Merit               	|Ocuurences: 0
-Milestone           	|Ocuurences: 0
-Ministry            	|Ocuurences: 0
-Minutiae            	|Ocuurences: 0
-Mischief            	|Ocuurences: 0
-Mischievous         	|Ocuurences: 0
-Mitigate            	|Ocuurences: 0
-Monarch             	|Ocuurences: 1
-Monolith            	|Ocuurences: 0
-Monomyth            	|Ocuurences: 0
-Morbid              	|Ocuurences: 0
-Mote                	|Ocuurences: 0
-Motif               	|Ocuurences: 0
-Mundane             	|Ocuurences: 0
-Murmuring           	|Ocuurences: 0
-Mystify             	|Ocuurences: 0
-Mystique            	|Ocuurences: 0
-Narcissist          	|Ocuurences: 0
-Nebular             	|Ocuurences: 0
-Nebulous            	|Ocuurences: 0
-Negate              	|Ocuurences: 1
-Nepotism            	|Ocuurences: 0
-Network             	|Ocuurences: 0
-Nexus               	|Ocuurences: 0
-Notion              	|Ocuurences: 0
-Nuclear             	|Ocuurences: 0
-Nullify             	|Ocuurences: 0
-Obfuscate           	|Ocuurences: 0
-Objective           	|Ocuurences: 0
-Oblique             	|Ocuurences: 0
-Obsolete            	|Ocuurences: 0
-Obstacle            	|Ocuurences: 0
-Obstinate           	|Ocuurences: 0
-Occupied            	|Ocuurences: 0
-Occupy              	|Ocuurences: 0
-Olympic             	|Ocuurences: 0
-Ominous             	|Ocuurences: 0
-Opaque              	|Ocuurences: 1
-Operate             	|Ocuurences: 0
-Optimize            	|Ocuurences: 0
-Orchestrate         	|Ocuurences: 1
-Organic             	|Ocuurences: 0
-Orient              	|Ocuurences: 0
-Originate           	|Ocuurences: 0
-Ornery              	|Ocuurences: 0
-Oscillate           	|Ocuurences: 0
-Outfit              	|Ocuurences: 0
-Overseer            	|Ocuurences: 0
-Oyster              	|Ocuurences: 0
-Pacify              	|Ocuurences: 0
-Paradigm            	|Ocuurences: 1
-Paradox             	|Ocuurences: 0
-Parasite            	|Ocuurences: 0
-Parody              	|Ocuurences: 0
-Passionate          	|Ocuurences: 0
-Pedagogical         	|Ocuurences: 0
-Pedagogy            	|Ocuurences: 0
-Perception          	|Ocuurences: 0
-Peripher(al)y       	|Ocuurences: 0
-Permission          	|Ocuurences: 0
-Permissive          	|Ocuurences: 0
-Perspicacity        	|Ocuurences: 0
-Pertain Pertinent   	|Ocuurences: 0
-Peruse              	|Ocuurences: 0
-Phantom             	|Ocuurences: 0
-Phosphorescence     	|Ocuurences: 0
-Pinnacle            	|Ocuurences: 0
-Pique               	|Ocuurences: 0
-Platform            	|Ocuurences: 0
-Platonic            	|Ocuurences: 0
-Plethora            	|Ocuurences: 0
-Plunge              	|Ocuurences: 0
-Poignant            	|Ocuurences: 0
-Polarize            	|Ocuurences: 0
-Precipitate         	|Ocuurences: 0
-Pregnant            	|Ocuurences: 0
-Premise             	|Ocuurences: 0
-Prerogative         	|Ocuurences: 0
-Prescribe           	|Ocuurences: 0
-Prescriptive        	|Ocuurences: 0
-Primordial Raw      	|Ocuurences: 0
-Prismatic           	|Ocuurences: 0
-Pristine            	|Ocuurences: 0
-Prodigious          	|Ocuurences: 0
-Profile             	|Ocuurences: 0
-Prolong             	|Ocuurences: 0
-Promiscuity         	|Ocuurences: 0
-Promulgate          	|Ocuurences: 0
-Propel              	|Ocuurences: 0
-Propitious          	|Ocuurences: 0
-Prosthetic          	|Ocuurences: 0
-Protege             	|Ocuurences: 0
-Protocol            	|Ocuurences: 1
-Province            	|Ocuurences: 0
-Provoke             	|Ocuurences: 0
-Purgative           	|Ocuurences: 0
-Purring             	|Ocuurences: 0
-Quell               	|Ocuurences: 0
-Quintessential      	|Ocuurences: 0
-Radar               	|Ocuurences: 0
-Radiate             	|Ocuurences: 0
-Rancid              	|Ocuurences: 0
-Rank                	|Ocuurences: 0
-Rapscallion         	|Ocuurences: 0
-Rash                	|Ocuurences: 0
-Ratify              	|Ocuurences: 0
-Reborn              	|Ocuurences: 0
-Reciprocate         	|Ocuurences: 0
-Rectify             	|Ocuurences: 0
-Reduce              	|Ocuurences: 0
-Reflect             	|Ocuurences: 0
-Refraction          	|Ocuurences: 0
-Regal               	|Ocuurences: 0
-Regiment            	|Ocuurences: 0
-Regulate            	|Ocuurences: 1
-Regurgitated        	|Ocuurences: 0
-Rehabilitate        	|Ocuurences: 0
-Relative            	|Ocuurences: 0
-Relic               	|Ocuurences: 0
-Remnant             	|Ocuurences: 0
-Remuneration        	|Ocuurences: 0
-Repository          	|Ocuurences: 0
-Reproach            	|Ocuurences: 0
-Repudiate           	|Ocuurences: 0
-Repugnant           	|Ocuurences: 0
-Reservoir           	|Ocuurences: 0
-Resist              	|Ocuurences: 0
-Resonance           	|Ocuurences: 0
-Restrict            	|Ocuurences: 0
-Retain              	|Ocuurences: 1
-Reverberate         	|Ocuurences: 0
-Revere              	|Ocuurences: 0
-Reverence           	|Ocuurences: 0
-Revitalize          	|Ocuurences: 0
-Rhapsody            	|Ocuurences: 0
-Rhetoric            	|Ocuurences: 0
-Rhythm              	|Ocuurences: 0
-Rigid               	|Ocuurences: 0
-Rival               	|Ocuurences: 0
-Rogue               	|Ocuurences: 0
-Rubric              	|Ocuurences: 0
-Saddle              	|Ocuurences: 0
-Sanction            	|Ocuurences: 0
-Sanguine            	|Ocuurences: 0
-Saturated           	|Ocuurences: 0
-Scepter             	|Ocuurences: 0
-Scheme              	|Ocuurences: 0
-Scion               	|Ocuurences: 0
-Scroll              	|Ocuurences: 0
-Scruple             	|Ocuurences: 0
-Seldom              	|Ocuurences: 0
-Sensor              	|Ocuurences: 0
-Sentiment           	|Ocuurences: 0
-Serendipitous       	|Ocuurences: 0
-Shackle             	|Ocuurences: 1
-Shade               	|Ocuurences: 0
-Shadow              	|Ocuurences: 0
-Shadow Foreshadow   	|Ocuurences: 0
-Shift               	|Ocuurences: 0
-Siege               	|Ocuurences: 0
-Silence             	|Ocuurences: 0
-Silhouette          	|Ocuurences: 0
-Siphon              	|Ocuurences: 1
-Siren               	|Ocuurences: 0
-Skirmish            	|Ocuurences: 0
-Socratic            	|Ocuurences: 0
-Solvent             	|Ocuurences: 0
-Sovereign           	|Ocuurences: 0
-Sow                 	|Ocuurences: 0
-Spatial             	|Ocuurences: 0
-Splendid Splendor   	|Ocuurences: 0
-Sprawl              	|Ocuurences: 0
-Stare               	|Ocuurences: 0
-Static              	|Ocuurences: 0
-Stifle              	|Ocuurences: 0
-Stodgy              	|Ocuurences: 0
-Stoic               	|Ocuurences: 0
-Subdue              	|Ocuurences: 0
-Subliminal          	|Ocuurences: 0
-Subordinate         	|Ocuurences: 0
-Subside             	|Ocuurences: 0
-Subsistence         	|Ocuurences: 0
-Substance           	|Ocuurences: 0
-Summon              	|Ocuurences: 0
-Sumptuous           	|Ocuurences: 0
-Superficial         	|Ocuurences: 0
-Superfluous         	|Ocuurences: 0
-Superior            	|Ocuurences: 0
-Superlative         	|Ocuurences: 0
-Supplication        	|Ocuurences: 0
-Suppress            	|Ocuurences: 0
-Surveillance        	|Ocuurences: 0
-Susceptible         	|Ocuurences: 0
-Swamp               	|Ocuurences: 0
-Symptom             	|Ocuurences: 0
-Synthesize          	|Ocuurences: 0
-Tainted             	|Ocuurences: 0
-Tandem              	|Ocuurences: 0
-Tangent             	|Ocuurences: 0
-Tarnish             	|Ocuurences: 0
-Teleport            	|Ocuurences: 0
-Temerity            	|Ocuurences: 0
-Tempest             	|Ocuurences: 0
-Tension             	|Ocuurences: 0
-Tenuous             	|Ocuurences: 0
-Texture             	|Ocuurences: 0
-Theater             	|Ocuurences: 0
-Thermal             	|Ocuurences: 0
-Tilt                	|Ocuurences: 0
-Tipsy               	|Ocuurences: 0
-Token               	|Ocuurences: 0
-Torrent of light    	|Ocuurences: 0
-Transcendence       	|Ocuurences: 0
-Transient           	|Ocuurences: 0
-Transition          	|Ocuurences: 0
-Translucent         	|Ocuurences: 0
-Transpire           	|Ocuurences: 0
-Transport           	|Ocuurences: 0
-Trauma              	|Ocuurences: 0
-Traumatize          	|Ocuurences: 0
-Trepidation         	|Ocuurences: 0
-Trident             	|Ocuurences: 0
-Trinket             	|Ocuurences: 0
-Turmoil             	|Ocuurences: 0
-Twilight            	|Ocuurences: 0
-Umbilical           	|Ocuurences: 0
-Undercurrent        	|Ocuurences: 0
-Unilateral          	|Ocuurences: 0
-Vaccine             	|Ocuurences: 0
-Vagabond            	|Ocuurences: 0
-Vast                	|Ocuurences: 0
-Venerable           	|Ocuurences: 0
-Venture             	|Ocuurences: 0
-Verbatim            	|Ocuurences: 0
-Vested              	|Ocuurences: 0
-Vex                 	|Ocuurences: 1
-Vibe                	|Ocuurences: 0
-Vice                	|Ocuurences: 0
-Vindicate           	|Ocuurences: 0
-Visceral            	|Ocuurences: 1
-Viscous             	|Ocuurences: 0
-Vital               	|Ocuurences: 0
-Volatile            	|Ocuurences: 0
-Vortex              	|Ocuurences: 0
-Vulnerable          	|Ocuurences: 0
-Weld                	|Ocuurences: 0
-Whither             	|Ocuurences: 0
-Wistful             	|Ocuurences: 0
-Wither              	|Ocuurences: 0
-Yield               	|Ocuurences: 0
-esoteric            	|Ocuurences: 0
+Abbreviate          	| Ocuurences: 0
+Abolish             	| Ocuurences: 0
+Abrasive            	| Ocuurences: 0
+Abrupt              	| Ocuurences: 0
+Absolve             	| Ocuurences: 0
+Absorb              	| Ocuurences: 0
+Abstract            	| Ocuurences: 0
+Abstraction         	| Ocuurences: 0
+Abyssal Soul        	| Ocuurences: 0
+Acclimate           	| Ocuurences: 0
+Accolade            	| Ocuurences: 0
+Activate            	| Ocuurences: 0
+Acute               	| Ocuurences: 0
+Ad hoc              	| Ocuurences: 0
+Adamant             	| Ocuurences: 0
+Adept               	| Ocuurences: 0
+Adequate            	| Ocuurences: 0
+Advance             	| Ocuurences: 0
+Aesthetic           	| Ocuurences: 0
+Aether              	| Ocuurences: 0
+Affidavit           	| Ocuurences: 0
+Affluence           	| Ocuurences: 0
+Aggrandize          	| Ocuurences: 0
+Agitate             	| Ocuurences: 0
+Alleged             	| Ocuurences: 0
+Alloy               	| Ocuurences: 0
+Alphabet            	| Ocuurences: 0
+Altercations        	| Ocuurences: 0
+Ambrosia            	| Ocuurences: 0
+Amend               	| Ocuurences: 0
+Anachronisms        	| Ocuurences: 0
+Animosity           	| Ocuurences: 0
+Annihilate          	| Ocuurences: 0
+Announce            	| Ocuurences: 0
+Annul               	| Ocuurences: 0
+Annunciate          	| Ocuurences: 0
+Anomaly             	| Ocuurences: 0
+Antidote            	| Ocuurences: 0
+Aphrodisiac         	| Ocuurences: 0
+Apogee              	| Ocuurences: 0
+Apparatus           	| Ocuurences: 0
+Appellation         	| Ocuurences: 0
+Apprentice          	| Ocuurences: 0
+Aptitude            	| Ocuurences: 1
+Arbitrary           	| Ocuurences: 0
+Arcane              	| Ocuurences: 0
+Archaic             	| Ocuurences: 0
+Aristocracy         	| Ocuurences: 0
+Aristocrat          	| Ocuurences: 0
+Aroma               	| Ocuurences: 0
+Arrest              	| Ocuurences: 0
+Article             	| Ocuurences: 0
+Articulate          	| Ocuurences: 0
+Artifact            	| Ocuurences: 1
+Ascertain           	| Ocuurences: 0
+Ascetic             	| Ocuurences: 0
+Aspect              	| Ocuurences: 0
+Assassinate         	| Ocuurences: 0
+Astral              	| Ocuurences: 0
+Astute              	| Ocuurences: 1
+Austere             	| Ocuurences: 0
+Avarice             	| Ocuurences: 0
+Averous             	| Ocuurences: 0
+Bandwidth           	| Ocuurences: 0
+Banish              	| Ocuurences: 1
+Baptize             	| Ocuurences: 0
+Barrier             	| Ocuurences: 0
+Basilisk            	| Ocuurences: 0
+Bask                	| Ocuurences: 0
+Bastion             	| Ocuurences: 0
+Batch               	| Ocuurences: 0
+Battery             	| Ocuurences: 0
+Beckon              	| Ocuurences: 0
+Benevolent          	| Ocuurences: 0
+Bequeath            	| Ocuurences: 0
+Betray              	| Ocuurences: 0
+Bind                	| Ocuurences: 0
+Blight              	| Ocuurences: 1
+Bodacious           	| Ocuurences: 0
+Bonafide            	| Ocuurences: 0
+Bondage             	| Ocuurences: 0
+Bounty              	| Ocuurences: 0
+Brilliant           	| Ocuurences: 0
+Brooding            	| Ocuurences: 0
+Cache               	| Ocuurences: 0
+Caliber             	| Ocuurences: 0
+Canon               	| Ocuurences: 0
+Capacity            	| Ocuurences: 0
+Capture             	| Ocuurences: 0
+Caravan             	| Ocuurences: 0
+Carnage             	| Ocuurences: 0
+Cartel              	| Ocuurences: 0
+Cascade             	| Ocuurences: 0
+Catalyst            	| Ocuurences: 1
+Cavalier            	| Ocuurences: 0
+Celtic              	| Ocuurences: 0
+Censor              	| Ocuurences: 0
+Chalice             	| Ocuurences: 0
+Chamber             	| Ocuurences: 0
+Champion            	| Ocuurences: 0
+Charisma            	| Ocuurences: 0
+Claim               	| Ocuurences: 0
+Clairvoyance        	| Ocuurences: 0
+Clarity             	| Ocuurences: 0
+Classical           	| Ocuurences: 0
+Clout               	| Ocuurences: 0
+Coerce              	| Ocuurences: 1
+Coercion            	| Ocuurences: 0
+Cognizant           	| Ocuurences: 0
+Cohesive            	| Ocuurences: 0
+Colossal            	| Ocuurences: 0
+Compel              	| Ocuurences: 1
+Compensate          	| Ocuurences: 1
+Compete             	| Ocuurences: 0
+Competent           	| Ocuurences: 0
+Complacent          	| Ocuurences: 0
+Compost             	| Ocuurences: 0
+Composure           	| Ocuurences: 0
+Compound            	| Ocuurences: 1
+Compress            	| Ocuurences: 0
+Concentrate         	| Ocuurences: 0
+Concert             	| Ocuurences: 0
+Concoct             	| Ocuurences: 0
+Concocted           	| Ocuurences: 0
+Concurrent          	| Ocuurences: 0
+Concussion          	| Ocuurences: 0
+Condemn             	| Ocuurences: 0
+Condition           	| Ocuurences: 0
+Condolence          	| Ocuurences: 0
+Conference          	| Ocuurences: 0
+Conform             	| Ocuurences: 0
+Confound            	| Ocuurences: 0
+Conjure             	| Ocuurences: 1
+Conquest            	| Ocuurences: 0
+Consensus           	| Ocuurences: 0
+Consequential       	| Ocuurences: 0
+Conserve            	| Ocuurences: 0
+Consolidate         	| Ocuurences: 0
+Consort             	| Ocuurences: 0
+Constitutes         	| Ocuurences: 0
+Construe            	| Ocuurences: 0
+Contradict          	| Ocuurences: 0
+Convection          	| Ocuurences: 0
+Converge            	| Ocuurences: 0
+Convince            	| Ocuurences: 0
+Convoluted          	| Ocuurences: 0
+Convulse            	| Ocuurences: 0
+Cordial             	| Ocuurences: 0
+Corridor            	| Ocuurences: 0
+Cosset              	| Ocuurences: 0
+Credence            	| Ocuurences: 0
+Crescendo           	| Ocuurences: 0
+Crusade             	| Ocuurences: 0
+Culmination         	| Ocuurences: 0
+Current             	| Ocuurences: 0
+Cynical             	| Ocuurences: 0
+DNA                 	| Ocuurences: 0
+Dapple              	| Ocuurences: 0
+Daze                	| Ocuurences: 0
+Dearth              	| Ocuurences: 0
+Debauchery          	| Ocuurences: 0
+Decay               	| Ocuurences: 0
+Decipher            	| Ocuurences: 0
+Decrepit            	| Ocuurences: 0
+Dedicate            	| Ocuurences: 0
+Default             	| Ocuurences: 0
+Deign               	| Ocuurences: 0
+Delude              	| Ocuurences: 0
+Dement              	| Ocuurences: 0
+Demise              	| Ocuurences: 0
+Demographic         	| Ocuurences: 0
+Demon               	| Ocuurences: 0
+Denounce            	| Ocuurences: 0
+Density             	| Ocuurences: 0
+Depth               	| Ocuurences: 0
+Destiny             	| Ocuurences: 0
+Detect              	| Ocuurences: 0
+Dethrone            	| Ocuurences: 0
+Detonate            	| Ocuurences: 0
+Detribalize         	| Ocuurences: 0
+Detriment           	| Ocuurences: 0
+Devise              	| Ocuurences: 0
+Dilute              	| Ocuurences: 0
+Diminish            	| Ocuurences: 0
+Diplomatic          	| Ocuurences: 0
+Disapproval         	| Ocuurences: 0
+Discern             	| Ocuurences: 0
+Disenchant          	| Ocuurences: 0
+Disillusion         	| Ocuurences: 0
+Dismal              	| Ocuurences: 0
+Dismay              	| Ocuurences: 0
+Disrupt             	| Ocuurences: 0
+Distinguished       	| Ocuurences: 0
+Domain              	| Ocuurences: 0
+Drab                	| Ocuurences: 0
+Drain               	| Ocuurences: 0
+Dualism             	| Ocuurences: 0
+Echelon             	| Ocuurences: 0
+Echo chamber        	| Ocuurences: 0
+Economy             	| Ocuurences: 0
+Ecstasy             	| Ocuurences: 0
+Edifice             	| Ocuurences: 0
+Efficacy            	| Ocuurences: 0
+Effusive            	| Ocuurences: 0
+Eidetic             	| Ocuurences: 0
+Elemental           	| Ocuurences: 0
+Elicit              	| Ocuurences: 1
+Elixir              	| Ocuurences: 0
+Elixir              	| Ocuurences: 0
+Elude               	| Ocuurences: 0
+Elusive             	| Ocuurences: 0
+Emanation           	| Ocuurences: 0
+Empirical           	| Ocuurences: 0
+Enchant             	| Ocuurences: 0
+Endeavor            	| Ocuurences: 0
+Endorse             	| Ocuurences: 0
+Engage              	| Ocuurences: 0
+Enigmatic           	| Ocuurences: 0
+Enter               	| Ocuurences: 0
+Entropy             	| Ocuurences: 0
+Enumerate           	| Ocuurences: 0
+Envelop             	| Ocuurences: 0
+Epitome             	| Ocuurences: 0
+Epitomize           	| Ocuurences: 0
+Erudite             	| Ocuurences: 0
+Esoteric            	| Ocuurences: 0
+Estate              	| Ocuurences: 0
+Exacerbate          	| Ocuurences: 0
+Exalted             	| Ocuurences: 0
+Exasperate          	| Ocuurences: 0
+Exhaust             	| Ocuurences: 0
+Expanse             	| Ocuurences: 0
+Explicit            	| Ocuurences: 0
+Exploit             	| Ocuurences: 0
+Export              	| Ocuurences: 0
+Expulsion           	| Ocuurences: 0
+Expunge             	| Ocuurences: 0
+Exterior            	| Ocuurences: 0
+Extinguish          	| Ocuurences: 0
+Extract             	| Ocuurences: 0
+Extractive          	| Ocuurences: 0
+Fable               	| Ocuurences: 0
+Fabricate           	| Ocuurences: 0
+Faccet              	| Ocuurences: 0
+Facet               	| Ocuurences: 0
+Facilitate          	| Ocuurences: 0
+Fatal               	| Ocuurences: 0
+Fathering gaze      	| Ocuurences: 0
+Feast               	| Ocuurences: 0
+Fertile             	| Ocuurences: 0
+Fickle              	| Ocuurences: 0
+Fingerprints        	| Ocuurences: 0
+Firewall            	| Ocuurences: 0
+Fold                	| Ocuurences: 0
+Forbearance         	| Ocuurences: 0
+Foreshadow          	| Ocuurences: 0
+Forfeit             	| Ocuurences: 0
+Fortitude           	| Ocuurences: 0
+Fortress            	| Ocuurences: 0
+Forum               	| Ocuurences: 0
+Fragment            	| Ocuurences: 0
+Fray                	| Ocuurences: 1
+Fret                	| Ocuurences: 0
+Fugitive            	| Ocuurences: 0
+Fuse                	| Ocuurences: 0
+Fusion              	| Ocuurences: 0
+Futile              	| Ocuurences: 0
+Galvanize           	| Ocuurences: 1
+Gargantuan          	| Ocuurences: 0
+Gargoyle            	| Ocuurences: 0
+Garnish             	| Ocuurences: 0
+Garrison            	| Ocuurences: 0
+Gawk                	| Ocuurences: 0
+Genocide            	| Ocuurences: 0
+Girth               	| Ocuurences: 0
+Glacier             	| Ocuurences: 0
+Gladiator           	| Ocuurences: 0
+Glance              	| Ocuurences: 0
+Gloom               	| Ocuurences: 0
+Gratuitous          	| Ocuurences: 0
+Gridlock            	| Ocuurences: 0
+Grit                	| Ocuurences: 0
+Grotesque           	| Ocuurences: 0
+Harness             	| Ocuurences: 0
+Harrow              	| Ocuurences: 0
+Haunt               	| Ocuurences: 1
+Hazard              	| Ocuurences: 0
+Hesitation          	| Ocuurences: 0
+Hiatus              	| Ocuurences: 0
+Homage              	| Ocuurences: 0
+Hopper              	| Ocuurences: 0
+Horrid              	| Ocuurences: 0
+Hover               	| Ocuurences: 0
+Hyperbole           	| Ocuurences: 0
+Hyphen              	| Ocuurences: 0
+Idiosyncrasy        	| Ocuurences: 1
+Illusion            	| Ocuurences: 0
+Imbed               	| Ocuurences: 0
+Immaculate          	| Ocuurences: 0
+Impetuous           	| Ocuurences: 0
+Implicit            	| Ocuurences: 0
+Incandescent        	| Ocuurences: 0
+Incapacitate        	| Ocuurences: 0
+Incarcerated        	| Ocuurences: 0
+Incarnate           	| Ocuurences: 0
+Inclination         	| Ocuurences: 0
+Incognito           	| Ocuurences: 0
+Incubator           	| Ocuurences: 0
+Indent Divide       	| Ocuurences: 0
+Indenture           	| Ocuurences: 0
+Indicative          	| Ocuurences: 0
+Indigenous          	| Ocuurences: 0
+Ineptitude          	| Ocuurences: 0
+Inevitable          	| Ocuurences: 0
+Inhibit             	| Ocuurences: 0
+Inhibition          	| Ocuurences: 0
+Innocuous           	| Ocuurences: 0
+Innuendo            	| Ocuurences: 0
+Inquisitive         	| Ocuurences: 0
+Insatiable          	| Ocuurences: 0
+Insolation          	| Ocuurences: 0
+Insubstantial       	| Ocuurences: 0
+Intelligence        	| Ocuurences: 0
+Intercept           	| Ocuurences: 0
+Interfere           	| Ocuurences: 0
+Interior            	| Ocuurences: 0
+Interrupt           	| Ocuurences: 0
+Intrepid            	| Ocuurences: 0
+Intrinsic           	| Ocuurences: 1
+Invade              	| Ocuurences: 0
+Invoke              	| Ocuurences: 0
+Iridescent          	| Ocuurences: 1
+Ironic              	| Ocuurences: 0
+Isolate             	| Ocuurences: 0
+Jaded               	| Ocuurences: 0
+Jargon              	| Ocuurences: 0
+Jeopardy            	| Ocuurences: 0
+Juggernaut          	| Ocuurences: 0
+Keen                	| Ocuurences: 0
+Kosher              	| Ocuurences: 0
+Labyrinth           	| Ocuurences: 0
+Lance               	| Ocuurences: 0
+Landscape           	| Ocuurences: 0
+Legislative         	| Ocuurences: 0
+Lense               	| Ocuurences: 0
+Liaison             	| Ocuurences: 0
+Linger              	| Ocuurences: 0
+Lucid               	| Ocuurences: 0
+Lucidity            	| Ocuurences: 0
+Majestic            	| Ocuurences: 0
+Maleficent          	| Ocuurences: 0
+Mandate             	| Ocuurences: 0
+Manipulate          	| Ocuurences: 0
+Manuscript          	| Ocuurences: 0
+Market              	| Ocuurences: 0
+Marshal             	| Ocuurences: 0
+Marshall            	| Ocuurences: 0
+Matrix              	| Ocuurences: 0
+Medium              	| Ocuurences: 0
+Memory              	| Ocuurences: 0
+Mercenary           	| Ocuurences: 0
+Merit               	| Ocuurences: 0
+Milestone           	| Ocuurences: 0
+Ministry            	| Ocuurences: 0
+Minutiae            	| Ocuurences: 0
+Mischief            	| Ocuurences: 0
+Mischievous         	| Ocuurences: 0
+Mitigate            	| Ocuurences: 0
+Monarch             	| Ocuurences: 1
+Monolith            	| Ocuurences: 0
+Monomyth            	| Ocuurences: 0
+Morbid              	| Ocuurences: 0
+Mote                	| Ocuurences: 0
+Motif               	| Ocuurences: 0
+Mundane             	| Ocuurences: 0
+Murmuring           	| Ocuurences: 0
+Mystify             	| Ocuurences: 0
+Mystique            	| Ocuurences: 0
+Narcissist          	| Ocuurences: 0
+Nebular             	| Ocuurences: 0
+Nebulous            	| Ocuurences: 0
+Negate              	| Ocuurences: 1
+Nepotism            	| Ocuurences: 0
+Network             	| Ocuurences: 0
+Nexus               	| Ocuurences: 0
+Notion              	| Ocuurences: 0
+Nuclear             	| Ocuurences: 0
+Nullify             	| Ocuurences: 0
+Obfuscate           	| Ocuurences: 0
+Objective           	| Ocuurences: 0
+Oblique             	| Ocuurences: 0
+Obsolete            	| Ocuurences: 0
+Obstacle            	| Ocuurences: 0
+Obstinate           	| Ocuurences: 0
+Occupied            	| Ocuurences: 0
+Occupy              	| Ocuurences: 0
+Olympic             	| Ocuurences: 0
+Ominous             	| Ocuurences: 0
+Opaque              	| Ocuurences: 1
+Operate             	| Ocuurences: 0
+Opiate              	| Ocuurences: 0
+Optimize            	| Ocuurences: 0
+Orchestrate         	| Ocuurences: 1
+Organic             	| Ocuurences: 0
+Orient              	| Ocuurences: 0
+Originate           	| Ocuurences: 0
+Ornery              	| Ocuurences: 0
+Oscillate           	| Ocuurences: 0
+Outfit              	| Ocuurences: 0
+Overseer            	| Ocuurences: 0
+Oyster              	| Ocuurences: 0
+Pacify              	| Ocuurences: 0
+Paradigm            	| Ocuurences: 1
+Paradox             	| Ocuurences: 0
+Parasite            	| Ocuurences: 0
+Parody              	| Ocuurences: 0
+Passionate          	| Ocuurences: 0
+Pedagogical         	| Ocuurences: 0
+Pedagogy            	| Ocuurences: 0
+Perception          	| Ocuurences: 0
+Percess             	| Ocuurences: 0
+Percuss             	| Ocuurences: 0
+Peripher(al)y       	| Ocuurences: 0
+Permission          	| Ocuurences: 0
+Permissive          	| Ocuurences: 0
+Perspicacity        	| Ocuurences: 0
+Pertain Pertinent   	| Ocuurences: 0
+Peruse              	| Ocuurences: 0
+Phantom             	| Ocuurences: 0
+Phosphorescence     	| Ocuurences: 0
+Pinnacle            	| Ocuurences: 0
+Pique               	| Ocuurences: 0
+Platform            	| Ocuurences: 0
+Platonic            	| Ocuurences: 0
+Plethora            	| Ocuurences: 0
+Plunge              	| Ocuurences: 0
+Poignant            	| Ocuurences: 0
+Polarize            	| Ocuurences: 0
+Precipitate         	| Ocuurences: 0
+Preference          	| Ocuurences: 0
+Pregnant            	| Ocuurences: 0
+Premise             	| Ocuurences: 0
+Prerogative         	| Ocuurences: 0
+Prescribe           	| Ocuurences: 0
+Prescriptive        	| Ocuurences: 0
+Primordial Raw      	| Ocuurences: 0
+Prism               	| Ocuurences: 0
+Prismatic           	| Ocuurences: 0
+Pristine            	| Ocuurences: 0
+Prodigious          	| Ocuurences: 0
+Profile             	| Ocuurences: 0
+Prolong             	| Ocuurences: 0
+Promiscuity         	| Ocuurences: 0
+Promulgate          	| Ocuurences: 0
+Propel              	| Ocuurences: 0
+Propitious          	| Ocuurences: 0
+Prosthetic          	| Ocuurences: 0
+Protege             	| Ocuurences: 0
+Protocol            	| Ocuurences: 1
+Province            	| Ocuurences: 0
+Provoke             	| Ocuurences: 0
+Purgative           	| Ocuurences: 0
+Purring             	| Ocuurences: 0
+Quell               	| Ocuurences: 0
+Quintessential      	| Ocuurences: 0
+Radar               	| Ocuurences: 0
+Radiate             	| Ocuurences: 0
+Rancid              	| Ocuurences: 0
+Rank                	| Ocuurences: 0
+Rapscallion         	| Ocuurences: 0
+Rash                	| Ocuurences: 0
+Ratify              	| Ocuurences: 0
+Reborn              	| Ocuurences: 0
+Reciprocate         	| Ocuurences: 0
+Rectify             	| Ocuurences: 0
+Reduce              	| Ocuurences: 0
+Reflect             	| Ocuurences: 0
+Refraction          	| Ocuurences: 0
+Regal               	| Ocuurences: 0
+Regiment            	| Ocuurences: 0
+Regulate            	| Ocuurences: 1
+Regurgitated        	| Ocuurences: 0
+Rehabilitate        	| Ocuurences: 0
+Relative            	| Ocuurences: 0
+Relic               	| Ocuurences: 0
+Remnant             	| Ocuurences: 0
+Remuneration        	| Ocuurences: 0
+Repository          	| Ocuurences: 0
+Reproach            	| Ocuurences: 0
+Repudiate           	| Ocuurences: 0
+Repugnant           	| Ocuurences: 0
+Reservoir           	| Ocuurences: 0
+Resist              	| Ocuurences: 0
+Resonance           	| Ocuurences: 0
+Restrict            	| Ocuurences: 0
+Retain              	| Ocuurences: 1
+Reverberate         	| Ocuurences: 0
+Revere              	| Ocuurences: 0
+Reverence           	| Ocuurences: 0
+Revitalize          	| Ocuurences: 0
+Rhapsody            	| Ocuurences: 0
+Rhetoric            	| Ocuurences: 0
+Rhythm              	| Ocuurences: 0
+Rigid               	| Ocuurences: 0
+Rival               	| Ocuurences: 0
+Rogue               	| Ocuurences: 0
+Rubric              	| Ocuurences: 0
+Saddle              	| Ocuurences: 0
+Sanction            	| Ocuurences: 0
+Sanguine            	| Ocuurences: 0
+Saturated           	| Ocuurences: 0
+Scepter             	| Ocuurences: 0
+Scheme              	| Ocuurences: 0
+Scion               	| Ocuurences: 0
+Scroll              	| Ocuurences: 0
+Scruple             	| Ocuurences: 0
+Seldom              	| Ocuurences: 0
+Sensor              	| Ocuurences: 0
+Sentiment           	| Ocuurences: 0
+Serendipitous       	| Ocuurences: 0
+Shackle             	| Ocuurences: 1
+Shade               	| Ocuurences: 0
+Shadow              	| Ocuurences: 1
+Shift               	| Ocuurences: 0
+Siege               	| Ocuurences: 0
+Silence             	| Ocuurences: 0
+Silhouette          	| Ocuurences: 0
+Siphon              	| Ocuurences: 1
+Siren               	| Ocuurences: 0
+Skirmish            	| Ocuurences: 0
+Socratic            	| Ocuurences: 0
+Solvent             	| Ocuurences: 0
+Sovereign           	| Ocuurences: 0
+Sow                 	| Ocuurences: 0
+Spatial             	| Ocuurences: 0
+Splendid Splendor   	| Ocuurences: 0
+Sprawl              	| Ocuurences: 0
+Stare               	| Ocuurences: 0
+Static              	| Ocuurences: 0
+Stifle              	| Ocuurences: 0
+Stodgy              	| Ocuurences: 0
+Stoic               	| Ocuurences: 0
+Subdue              	| Ocuurences: 0
+Subliminal          	| Ocuurences: 0
+Subordinate         	| Ocuurences: 0
+Subside             	| Ocuurences: 0
+Subsistence         	| Ocuurences: 0
+Substance           	| Ocuurences: 0
+Summon              	| Ocuurences: 0
+Sumptuous           	| Ocuurences: 0
+Superficial         	| Ocuurences: 0
+Superfluous         	| Ocuurences: 0
+Superior            	| Ocuurences: 0
+Superlative         	| Ocuurences: 0
+Supplication        	| Ocuurences: 0
+Suppress            	| Ocuurences: 0
+Surveillance        	| Ocuurences: 0
+Susceptible         	| Ocuurences: 0
+Swamp               	| Ocuurences: 0
+Symptom             	| Ocuurences: 0
+Synthesize          	| Ocuurences: 0
+Tainted             	| Ocuurences: 0
+Tandem              	| Ocuurences: 0
+Tangent             	| Ocuurences: 0
+Tarnish             	| Ocuurences: 0
+Teleport            	| Ocuurences: 0
+Temerity            	| Ocuurences: 0
+Tempest             	| Ocuurences: 0
+Tension             	| Ocuurences: 0
+Tenuous             	| Ocuurences: 0
+Texture             	| Ocuurences: 0
+Theater             	| Ocuurences: 0
+Thermal             	| Ocuurences: 0
+Tilt                	| Ocuurences: 0
+Time Dilation       	| Ocuurences: 0
+Tipsy               	| Ocuurences: 0
+Token               	| Ocuurences: 0
+Torrent of light    	| Ocuurences: 0
+Transcendence       	| Ocuurences: 0
+Transient           	| Ocuurences: 0
+Transition          	| Ocuurences: 0
+Translucent         	| Ocuurences: 0
+Transpire           	| Ocuurences: 0
+Transport           	| Ocuurences: 0
+Trauma              	| Ocuurences: 0
+Traumatize          	| Ocuurences: 0
+Trepidation         	| Ocuurences: 0
+Trident             	| Ocuurences: 0
+Trinket             	| Ocuurences: 0
+Turmoil             	| Ocuurences: 0
+Twilight            	| Ocuurences: 0
+Umbilical           	| Ocuurences: 0
+Undercurrent        	| Ocuurences: 0
+Unilateral          	| Ocuurences: 0
+Vaccine             	| Ocuurences: 0
+Vagabond            	| Ocuurences: 0
+Vast                	| Ocuurences: 0
+Venerable           	| Ocuurences: 0
+Venture             	| Ocuurences: 0
+Verbatim            	| Ocuurences: 0
+Vested              	| Ocuurences: 0
+Vex                 	| Ocuurences: 1
+Vibe                	| Ocuurences: 0
+Vice                	| Ocuurences: 0
+Vindicate           	| Ocuurences: 0
+Visceral            	| Ocuurences: 1
+Viscous             	| Ocuurences: 0
+Vital               	| Ocuurences: 0
+Volatile            	| Ocuurences: 0
+Vortex              	| Ocuurences: 0
+Vulnerable          	| Ocuurences: 0
+Weld                	| Ocuurences: 0
+Whither             	| Ocuurences: 0
+Wistful             	| Ocuurences: 0
+Wither              	| Ocuurences: 0
+Yield               	| Ocuurences: 0

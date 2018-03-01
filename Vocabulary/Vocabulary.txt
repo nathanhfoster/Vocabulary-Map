@@ -1,9 +1,15 @@
-Convoluted
-Serendipitous
-Cartel
-Bandwidth
-Faccet
-Visceral
+	Ambrosia
+	Percess
+	Bastion
+	Opiate
+	Drab
+	Convoluted
+	Serendipitous
+	Cartel
+	Bandwidth
+	Faccet
+	Visceral
+
 Lucid
 Apogee
 Culmination

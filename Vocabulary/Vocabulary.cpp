@@ -13,10 +13,7 @@ Vocabulary::Vocabulary() {
 	else {
 
 		for (string line; getline(inFile, line); ) {
-			if (vocabWord.count(line) == 1)
-				vocabWord[line]++;
-			else
-				vocabWord[line];
+			vocabWord[line]++;
 		}
 		/*while (!inFile.eof()) {
 			inFile >> word;
